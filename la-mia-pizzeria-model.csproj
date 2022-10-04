@@ -7,4 +7,8 @@
     <RootNamespace>la_mia_pizzeria_model</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+  </ItemGroup>
+
 </Project>
